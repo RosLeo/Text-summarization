@@ -4,12 +4,12 @@ Questo progetto è un'implementazione di un algoritmo di Text Summarizzazione ad
 
 **Note sul Codice**
 
-Il codice sorgente è disponibile nel file \texttt{NLP\_text\_summarization.ipynb}. Per maggiori dettagli sul funzionamento dell'algoritmo, è possibile consultare questo file.
+Il codice sorgente è disponibile nel file **NLP\_TextSummarization.ipynb**. Per maggiori dettagli sul funzionamento dell'algoritmo, è possibile consultare questo file.
 
 **Slides**
 
-Le slides del progetto sono disponibili nel file \texttt{slide\_NLP.pdf}.
+Le slides del progetto sono disponibili nel file **Slide NLP.pdf**.
 
 **Relazione**
 
-La relazione completa del progetto è disponibile nel file \texttt{text\_summarization.pdf}.
+La relazione completa del progetto è disponibile nel file **Text_Summarization.pdf**.
